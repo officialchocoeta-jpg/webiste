@@ -1,0 +1,3 @@
+.env
+orders.sqlite*
+node_modules/
